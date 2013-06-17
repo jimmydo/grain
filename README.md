@@ -25,7 +25,7 @@ with expect.raises(TypeError):
     your_func(None)
 ```
 
-Available assertions methods:
+Available assertion methods:
 
 - expect(a).equal(b)
 - expect(a).not_equal(b)
